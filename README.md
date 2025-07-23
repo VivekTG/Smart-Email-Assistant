@@ -1,0 +1,1 @@
+"I built a Smart Email Assistant that integrates artificial intelligence directly into Gmail using a Chrome extension. It helps users generate professional, casual, or formal replies to emails automatically. The backend is developed using Spring Boot and integrates with Google's Gemini model using Spring AI."
